@@ -5,7 +5,7 @@ who interested with data science, image processing, and front end development
 
 
 ####################################
-this is my internship project
+this is my internship project about detecting location plate of container truck
 in this project, i use openCV library and slightly change someone else's code to fit my case
 because this project is only used for study needs
 
